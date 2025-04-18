@@ -1,0 +1,64 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.venv/
+ENV/
+env/
+*.env
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# PyCharm
+*.iml
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# Logs and temporary files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.bak
+*.swp
+
+# Test coverage
+.coverage
+.coverage.*
+*.cover
+
+# MyPy
+.mypy_cache/
+
+# Pylint
+pylint-report.txt
+pylint-global-option.txt
+
+# Pytest
+.cache/
+nosetests.xml
+coverage.xml
+*.coveragerc
+
+# VS Code settings
+.vscode/
